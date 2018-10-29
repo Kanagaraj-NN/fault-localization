@@ -1,4 +1,4 @@
-# Fault Localization from Defects4J
+# Improving Fault Localization using Defects4J dataset
 
 Fault localization is a technique to help identify buggy lines from source code based on failing test cases. The goal of the project is to improve spectrum based fault localization techniques by using source code history information
 
